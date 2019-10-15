@@ -1,0 +1,30 @@
+{
+  "name": "faceapi-node.js-demo",
+  "version": "1.0.0",
+  "description": "Demo para realizar reconhecimento de imagem via Face API & Node.js",
+  "main": "face-detection.js",
+  "scripts": {
+    "dev": "node src/face-detection.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/faceapi-node.js-demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cognitive-services",
+    "azure",
+    "face-api",
+    "javascript"
+  ],
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/faceapi-node.js-demo/issues"
+  },
+  "homepage": "https://github.com/glaucia86/faceapi-node.js-demo#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0"
+  }
+}
