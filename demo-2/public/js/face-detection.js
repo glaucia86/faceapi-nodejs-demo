@@ -1,10 +1,10 @@
 // @ts-nocheck
 function processImage() {
   // ==> Aqui você deverá alterar a chave criada no Portal Azure.
-  const subscriptionKey = '';
+  const subscriptionKey = '9c993b03e473469a9069905354956f5c';
 
   // ==> Aqui você deverá alterar o endpoint criado no Portal Azure
-  const uriBase = "";
+  const uriBase = "https://faceapi-nodejs.cognitiveservices.azure.com/face/v1.0/detect";
 
   // ==> Aqui estamos fazendo a requisão dos parâmetros
   const params = {
