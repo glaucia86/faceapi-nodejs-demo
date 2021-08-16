@@ -2,7 +2,7 @@
 
 [![Screen-Shot-10-14-19-at-02-02-PM.png](https://i.postimg.cc/d3QLCwvj/Screen-Shot-10-14-19-at-02-02-PM.png)](https://postimg.cc/BLyS9Wjj)
 
-Repositório responsável pela demo usando **[Face Api]()** com Node.js, baseado no artigo escrito por mim no dev.to **[AQUI]()**.
+Repositório responsável pela demo usando **[Face Api]()** com Node.js, baseado no artigo escrito por mim no dev.to **[AQUI](https://dev.to/azure/reconhecimento-facial-com-face-api-node-js-1h6p)**.
 
 ## Recursos Utilizados 🚀
 
